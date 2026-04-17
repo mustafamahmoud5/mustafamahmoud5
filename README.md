@@ -3,11 +3,9 @@
 
 ## About Me
 
-- Mobile Application Developer  
 - Flutter Developer (Dart)  
 - React Native Developer (JavaScript)  
 - iOS Native Development (Swift - basics)  
-- REST APIs Integration  
 - Firebase (Authentication, Firestore, Notifications)  
 ## Links
 
