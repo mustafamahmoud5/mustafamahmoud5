@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
-<h3>Mobile Application Developer (Flutter, React Native, iOS Native)</h3>
+<h1>Mobile Application Developer (Flutter, React Native, iOS Native)</h1>
 
 ---
 
-### About Me
+## About Me
 
 - Mobile Application Developer  
 - Flutter Developer (Dart)  
@@ -11,14 +11,14 @@
 - iOS Native Development (Swift - basics)  
 - REST APIs Integration  
 - Firebase (Authentication, Firestore, Notifications)  
-### Links
+## Links
 
 - My CV: 
 - My Projects: 
 
 ---
 
-### Connect with Me
+## Connect with Me
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -30,7 +30,7 @@
 
 ---
 
-### Skills
+## Skills
 
 <img src="https://skillicons.dev/icons?i=cpp,html,css,js,dart,flutter,git,github&perline=11" />
 
