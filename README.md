@@ -14,17 +14,6 @@
 - My Projects: 
 
 
-## Connect with Me
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-
 ## Skills
 
 <img src="https://skillicons.dev/icons?i=cpp,html,css,js,dart,flutter,git,github&perline=11" />
