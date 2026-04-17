@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
-<h1>Hi, I'm Mustafa Mahmoud Ali</h1>
+<h1>I'm Mustafa Mahmoud Ali</h1>
 <h3>Mobile Application Developer (Flutter, React Native, iOS Native)</h3>
 
 ---
